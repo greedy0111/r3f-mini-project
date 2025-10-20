@@ -10,4 +10,4 @@ Three.js 라이브러리를 활용한 3D 인터랙션 구현에 중점을 두어
 
 ## 🔍 Overview
 
-![screencapture]()
+![screencapture](https://github.com/greedy0111/greedy0111-portfolio_overview_images/blob/main/r3f-mini-project.webp?raw=true)
